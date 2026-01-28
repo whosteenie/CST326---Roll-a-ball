@@ -1706,6 +1706,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb1131cb9c7834340aa08bb2e3fd5bd1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
+  rb: {fileID: 830162293}
+  meshRenderer: {fileID: 830162288}
   speed: 10
   uiDocument: {fileID: 1449071725}
   pickUpParent: {fileID: 1016672842}
